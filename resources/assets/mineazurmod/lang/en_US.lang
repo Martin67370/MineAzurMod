@@ -1,0 +1,24 @@
+tile.lanterne.name=Lanterne
+tile.table.name=Table
+tile.chair.name=Chair
+tile.plafond.name=Plafond
+tile.bois_vernis.name=Bois Vernis
+tile.tutoriel2.number=Value : %d
+tile.tutoriel3.number=Owner : %d
+
+item.pizza.name=Pizza
+item.helmetObsi.name=Obsidian Helmet
+item.chestPlateObsi.name=Obsidian ChestPlate
+item.leggingsObsi.name=Obsidian Leggings
+item.bootsObsi.name=Obsidian Boots
+item.ingotObsi.name=Obsidian ingot
+item.swordObsi.name=Obsidian Sword
+item.pickaxeObsi.name=Obsidian Pickaxe
+item.axeObsi.name=Obsidian Axe
+item.shovelObsi.name=Obsidian Shovel
+item.hoeObsi.name=Obsidian hoe
+item.mayo.name=Mayonnaise
+item.logo.name=MineAzur Logo
+
+#CreativeTabs
+itemGroup.MineAzurCreativeTabs=MineAzur Mod
