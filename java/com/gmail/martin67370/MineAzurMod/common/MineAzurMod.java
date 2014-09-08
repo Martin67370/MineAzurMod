@@ -159,6 +159,7 @@ public class MineAzurMod
 		
 		
 		GameRegistry.registerTileEntity(TileEntityShowcase.class, "mineazurmod:showcase");
+		
 	    GameRegistry.registerBlock(BlockTutorialStairs, "BlockTutorialStairs");
 	}
 
